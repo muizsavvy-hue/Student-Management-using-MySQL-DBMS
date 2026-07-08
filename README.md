@@ -1,1 +1,1 @@
-# Student-Management-using-MySQL-DBMS
+# Student Management using MySQL DBMS
