@@ -1,9 +1,6 @@
 # Student Management using MySQL DBMS
 
-
-# 📊 Loan Risk & Customer Default Analysis
-
-## 📌 Project Overview
+## Project Overview
 
 Financial institutions lose millions each year due to poor lending decisions and increasing customer loan defaults. This project analyzes historical loan data from **CrediTrust**, a lending institution, to identify the key drivers of loan default, evaluate customer risk, and provide data-driven recommendations that improve lending decisions.
 
@@ -11,7 +8,7 @@ The project demonstrates the complete data analysis workflow, from data cleaning
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 CrediTrust has experienced:
 
@@ -22,9 +19,8 @@ CrediTrust has experienced:
 
 The business needed an analytical solution to identify risky borrowers before loan approval.
 
----
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The analysis aimed to:
 
@@ -35,19 +31,17 @@ The analysis aimed to:
 - Segment customers into risk categories
 - Provide actionable business recommendations
 
----
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-- Microsoft Excel
+
 - SQL
-- Power BI
-- Python (Pandas, NumPy)
-- Data Visualization
+- Mysql
+- AWS
 
----
 
-## 📂 Dataset Overview
+
+## Dataset Overview
 
 The dataset contains customer loan records, including:
 
@@ -63,7 +57,7 @@ The dataset contains customer loan records, including:
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+# Data Cleaning & Preparation
 
 The following preprocessing steps were completed:
 
@@ -81,7 +75,7 @@ The cleaned dataset became more reliable for analysis and business reporting.
 
 ---
 
-# 📈 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
 Several exploratory analyses were conducted to better understand customer behavior.
 
@@ -115,9 +109,9 @@ Middle-aged customers generally borrowed larger loan amounts.
 
 A positive relationship existed between customer income and loan amount, although some low-income borrowers requested disproportionately large loans.
 
----
 
-# ⚠️ Risk Analysis
+
+#  Risk Analysis
 
 The analysis identified the strongest indicators of customer default.
 
@@ -133,7 +127,7 @@ These variables showed the strongest relationship with loan default.
 
 ---
 
-# 👥 Customer Risk Segmentation
+#  Customer Risk Segmentation
 
 Customers were classified into three categories.
 
@@ -147,7 +141,7 @@ This segmentation supports better lending decisions and portfolio management.
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 Based on the findings, the following recommendations were proposed:
 
@@ -159,7 +153,7 @@ Apply stricter approval rules for customers with:
 - Previous defaults
 - Unstable employment
 
----
+
 
 ### 2. Reduce Loan Exposure
 
@@ -187,7 +181,7 @@ Offer different loan terms based on customer risk category rather than applying 
 
 ---
 
-# 📊 Business Impact
+#  Business Impact
 
 Implementing these recommendations can help CrediTrust:
 
@@ -200,7 +194,7 @@ Implementing these recommendations can help CrediTrust:
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 This project demonstrates how data analytics can improve financial decision-making by identifying high-risk borrowers before loan approval.
 
@@ -215,7 +209,7 @@ Using customer risk segmentation and financial analysis enables lenders to reduc
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```
 Loan-Risk-Analysis/
@@ -231,7 +225,7 @@ Loan-Risk-Analysis/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Yusuf Abdulmuiz Gbolahan**
 
